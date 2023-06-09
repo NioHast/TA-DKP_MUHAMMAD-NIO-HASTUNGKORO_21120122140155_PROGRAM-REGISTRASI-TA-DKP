@@ -1,5 +1,3 @@
-'''Assalamu'alaikum Wr Wb. Look at the star, look how they shine for you'''
-
 import customtkinter as ctk
 import tkinter.messagebox as messagebox
 
